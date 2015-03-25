@@ -13,4 +13,5 @@ Curated list about GH topics
   5. [How To Make Great Landing Pages (With Crazy High Conversions)](http://inboundrocket.co/blog/how-to-make-great-landing-pages-with-crazy-high-conversions/)
   6. [31 WordPress Plugins To Boost Engagement](https://blog.captainup.com/31-wordpress-plugins-to-boost-engagement/)
   7. [Scraping Online Communities for your Outreach Campaigns](http://www.matthewbarby.com/scraping-communities-with-xpath/)
+  8. [The 7 Ways Dropbox Hacked Growth to Become a $4 Billion Company](https://blog.kissmetrics.com/dropbox-hacked-growth/)
 
