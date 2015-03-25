@@ -14,4 +14,5 @@ Curated list about GH topics
   6. [31 WordPress Plugins To Boost Engagement](https://blog.captainup.com/31-wordpress-plugins-to-boost-engagement/)
   7. [Scraping Online Communities for your Outreach Campaigns](http://www.matthewbarby.com/scraping-communities-with-xpath/)
   8. [The 7 Ways Dropbox Hacked Growth to Become a $4 Billion Company](https://blog.kissmetrics.com/dropbox-hacked-growth/)
+  9. [JustReachOut Helps Startups Write Better Email Pitches](http://techcrunch.com/2014/07/25/justreachout-helps-startups-write-better-email-pitches/)
 
