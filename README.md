@@ -16,4 +16,5 @@ Curated list about GH topics
   8. [The 7 Ways Dropbox Hacked Growth to Become a $4 Billion Company](https://blog.kissmetrics.com/dropbox-hacked-growth/)
   9. [JustReachOut Helps Startups Write Better Email Pitches](http://techcrunch.com/2014/07/25/justreachout-helps-startups-write-better-email-pitches/)
   10. [How I Sold My App To 10 People Before I Wrote a Line of Code And Then Launched It](http://www.criminallyprolific.com/2014/06/how-i-sold-my-app-to-10-people-before-i-wrote-a-line-of-code-and-then-launched-it/)
+  11. [How to Get 60 Leads in 24 Hours With a Landing Page and a LinkedIn Group](http://www.entrepreneur.com/article/244080)
 
