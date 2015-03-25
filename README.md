@@ -11,5 +11,6 @@ Curated list about GH topics
   3. [Build Your Startup in Hours - WordPress for MVPs](https://www.linkedin.com/pulse/build-your-startup-hours-wordpress-mvps-mario-peshev)
   4. [MVPS: MINIMUM VIABLE PRODUCT MUTANTS](https://userexperiencerocks.wordpress.com)
   5. [How To Make Great Landing Pages (With Crazy High Conversions)](http://inboundrocket.co/blog/how-to-make-great-landing-pages-with-crazy-high-conversions/)
-  6. [31 WordPress Plugins To Boost Engagement
-](https://blog.captainup.com/31-wordpress-plugins-to-boost-engagement/)
+  6. [31 WordPress Plugins To Boost Engagement](https://blog.captainup.com/31-wordpress-plugins-to-boost-engagement/)
+  7. [Scraping Online Communities for your Outreach Campaigns](http://www.matthewbarby.com/scraping-communities-with-xpath/)
+
