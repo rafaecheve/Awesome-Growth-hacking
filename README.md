@@ -18,4 +18,5 @@ Curated list about GH topics
   10. [How I Sold My App To 10 People Before I Wrote a Line of Code And Then Launched It](http://www.criminallyprolific.com/2014/06/how-i-sold-my-app-to-10-people-before-i-wrote-a-line-of-code-and-then-launched-it/)
   11. [How to Get 60 Leads in 24 Hours With a Landing Page and a LinkedIn Group](http://www.entrepreneur.com/article/244080)
   12. [Three Simple Launch Lessons From the Founder of Product Hunt](http://rocketship.fm/articles/three-simple-launch-lessons-from-the-founder-of-product-hunt/)
+  13. [User Analytics as Your Product Grows](https://www.airpair.com/analytics/posts/user-analytics-as-your-product-grows)
 
