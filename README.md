@@ -20,6 +20,7 @@ Curated list about GH topics
   12. [Three Simple Launch Lessons From the Founder of Product Hunt](http://rocketship.fm/articles/three-simple-launch-lessons-from-the-founder-of-product-hunt/)
   13. [User Analytics as Your Product Grows](https://www.airpair.com/analytics/posts/user-analytics-as-your-product-grows)
   14. [13 Content Marketing Hacks That Will Help You Attract More Clients](http://neilpatel.com/2015/03/31/13-content-marketing-hacks-that-will-help-you-attract-more-clients/)
+  15. [15 ways to test your minimum viable product](http://thenextweb.com/dd/2014/11/12/15-ways-test-minimum-viable-product/)
 
 ## MVP'S
   1. [Highbrow](http://gohighbrow.com)
