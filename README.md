@@ -21,6 +21,7 @@ Curated list about GH topics
   13. [User Analytics as Your Product Grows](https://www.airpair.com/analytics/posts/user-analytics-as-your-product-grows)
   14. [13 Content Marketing Hacks That Will Help You Attract More Clients](http://neilpatel.com/2015/03/31/13-content-marketing-hacks-that-will-help-you-attract-more-clients/)
   15. [15 ways to test your minimum viable product](http://thenextweb.com/dd/2014/11/12/15-ways-test-minimum-viable-product/)
+  16. [Idea to App book review; first base for iOS app creation](http://www.slashgear.com/idea-to-app-book-review-first-base-for-ios-app-creation-03377351/)
 
 ## MVP'S
   1. [Highbrow](http://gohighbrow.com)
