@@ -24,6 +24,7 @@ Curated list about GH topics
   16. [Idea to App book review; first base for iOS app creation](http://www.slashgear.com/idea-to-app-book-review-first-base-for-ios-app-creation-03377351/)
   17. [DON’T START FROM SCRATCH](http://nathanbarry.com/scratch/)
   18. [Planning to Do a SaaS Startup? Don’t Forget the 20 Interview Rule.](http://www.saastr.com/planning-to-do-a-saas-start-up-dont-forget-the-20-interview-rule/)
+  19. [Video: Unlocking the Secrets of Growth in 20 Minutes by James Currier](https://growthhackers.com/videos/video-unlocking-the-secrets-of-growth-in-20-minutes-by-james-currier/)
 
 ## MVP'S
   1. [Highbrow](http://gohighbrow.com)
