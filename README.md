@@ -23,6 +23,7 @@ Curated list about GH topics
   15. [15 ways to test your minimum viable product](http://thenextweb.com/dd/2014/11/12/15-ways-test-minimum-viable-product/)
   16. [Idea to App book review; first base for iOS app creation](http://www.slashgear.com/idea-to-app-book-review-first-base-for-ios-app-creation-03377351/)
   17. [DON’T START FROM SCRATCH](http://nathanbarry.com/scratch/)
+  18. [Planning to Do a SaaS Startup? Don’t Forget the 20 Interview Rule.](http://www.saastr.com/planning-to-do-a-saas-start-up-dont-forget-the-20-interview-rule/)
 
 ## MVP'S
   1. [Highbrow](http://gohighbrow.com)
