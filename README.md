@@ -27,6 +27,7 @@ Curated list about GH topics
   19. [Video: Unlocking the Secrets of Growth in 20 Minutes by James Currier](https://growthhackers.com/videos/video-unlocking-the-secrets-of-growth-in-20-minutes-by-james-currier/)
   20. [13 Must-Read Resources for SaaS Marketers](http://sujanpatel.com/saas/13-must-read-resources-saas-marketers/)
   21. [How much should a custom WordPress website cost?](https://poststatus.com/wordpress-website-cost/)
+  22. [How to Leverage Other People’s Hard Work to Grow Your Business](https://www.groovehq.com/blog/leverage-in-business)
 
 ## MVP'S
   1. [Highbrow](http://gohighbrow.com)
