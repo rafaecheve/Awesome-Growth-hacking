@@ -26,6 +26,7 @@ Curated list about GH topics
   18. [Planning to Do a SaaS Startup? Don’t Forget the 20 Interview Rule.](http://www.saastr.com/planning-to-do-a-saas-start-up-dont-forget-the-20-interview-rule/)
   19. [Video: Unlocking the Secrets of Growth in 20 Minutes by James Currier](https://growthhackers.com/videos/video-unlocking-the-secrets-of-growth-in-20-minutes-by-james-currier/)
   20. [13 Must-Read Resources for SaaS Marketers](http://sujanpatel.com/saas/13-must-read-resources-saas-marketers/)
+  21. [How much should a custom WordPress website cost?](https://poststatus.com/wordpress-website-cost/)
 
 ## MVP'S
   1. [Highbrow](http://gohighbrow.com)
