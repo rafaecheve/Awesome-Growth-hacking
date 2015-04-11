@@ -28,6 +28,7 @@ Curated list about GH topics
   20. [13 Must-Read Resources for SaaS Marketers](http://sujanpatel.com/saas/13-must-read-resources-saas-marketers/)
   21. [How much should a custom WordPress website cost?](https://poststatus.com/wordpress-website-cost/)
   22. [How to Leverage Other People’s Hard Work to Grow Your Business](https://www.groovehq.com/blog/leverage-in-business)
+  23. [GROWTH HACKING IS BULLSHIT](http://blog.intercom.io/growth-hacking-is-bullshit/)
 
 ## MVP'S
   1. [Highbrow](http://gohighbrow.com)
