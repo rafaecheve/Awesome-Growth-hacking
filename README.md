@@ -30,6 +30,10 @@ Curated list about GH topics
   22. [How to Leverage Other People’s Hard Work to Grow Your Business](https://www.groovehq.com/blog/leverage-in-business)
   23. [GROWTH HACKING IS BULLSHIT](http://blog.intercom.io/growth-hacking-is-bullshit/)
 
+## MVP GUIDE
+  - [15 ways to test your minimum viable product](http://thenextweb.com/dd/2014/11/12/15-ways-test-minimum-viable-product)
+
+
 ## MVP'S
   1. [Highbrow](http://gohighbrow.com)
 
