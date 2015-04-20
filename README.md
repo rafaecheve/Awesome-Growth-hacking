@@ -29,6 +29,7 @@ Curated list about GH topics
   21. [How much should a custom WordPress website cost?](https://poststatus.com/wordpress-website-cost/)
   22. [How to Leverage Other People’s Hard Work to Grow Your Business](https://www.groovehq.com/blog/leverage-in-business)
   23. [GROWTH HACKING IS BULLSHIT](http://blog.intercom.io/growth-hacking-is-bullshit/)
+  24. [5 Reasons Why Solving the Right Problem Can Make You Rich](http://scalemybusiness.com/5-reasons-why-solving-the-right-problem-can-make-you-rich/)
 
 ## MVP GUIDE
   - [15 ways to test your minimum viable product](http://thenextweb.com/dd/2014/11/12/15-ways-test-minimum-viable-product)
