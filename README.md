@@ -31,6 +31,7 @@ Curated list about GH topics
   23. [GROWTH HACKING IS BULLSHIT](http://blog.intercom.io/growth-hacking-is-bullshit/)
   24. [5 Reasons Why Solving the Right Problem Can Make You Rich](http://scalemybusiness.com/5-reasons-why-solving-the-right-problem-can-make-you-rich/)
   25. [To Speak Millennial, Use Email](http://marketingland.com/speak-millennial-use-email-124811)
+  26. [KISSmetrics Fills the Gaps That Google Analytics Leaves Behind](http://grow.kissmetrics.com/kissmetrics-vs-google-analytics-nur)
 
 ## MVP GUIDE
   - [15 ways to test your minimum viable product](http://thenextweb.com/dd/2014/11/12/15-ways-test-minimum-viable-product)
