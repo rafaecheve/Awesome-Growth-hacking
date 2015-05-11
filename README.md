@@ -33,6 +33,7 @@ Curated list about GH topics
   25. [To Speak Millennial, Use Email](http://marketingland.com/speak-millennial-use-email-124811)
   26. [KISSmetrics Fills the Gaps That Google Analytics Leaves Behind](http://grow.kissmetrics.com/kissmetrics-vs-google-analytics-nur)
   27. [Infographic: How Colors Affect Conversions](https://blog.kissmetrics.com/how-colors-affect-conversions/)
+  28. [7 Frugal Startup Tips from Millionaire Entrepreneurs](http://www.entrepreneur.com/article/224209)
 
 ## MVP GUIDE
   - [15 ways to test your minimum viable product](http://thenextweb.com/dd/2014/11/12/15-ways-test-minimum-viable-product)
