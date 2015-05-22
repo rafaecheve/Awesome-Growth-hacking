@@ -34,6 +34,7 @@ Curated list about GH topics
   26. [KISSmetrics Fills the Gaps That Google Analytics Leaves Behind](http://grow.kissmetrics.com/kissmetrics-vs-google-analytics-nur)
   27. [Infographic: How Colors Affect Conversions](https://blog.kissmetrics.com/how-colors-affect-conversions/)
   28. [7 Frugal Startup Tips from Millionaire Entrepreneurs](http://www.entrepreneur.com/article/224209)
+  29. [How KISSmetrics Grew to 793,858 Visitors a Month by Using One Simple Formula](http://www.quicksprout.com/2015/05/20/how-kissmetrics-grew-to-793858-visitors-a-month-by-using-one-simple-formula/)
 
 ## MVP GUIDE
   - [15 ways to test your minimum viable product](http://thenextweb.com/dd/2014/11/12/15-ways-test-minimum-viable-product)
