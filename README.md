@@ -37,6 +37,7 @@ Curated list about GH topics
   29. [How KISSmetrics Grew to 793,858 Visitors a Month by Using One Simple Formula](http://www.quicksprout.com/2015/05/20/how-kissmetrics-grew-to-793858-visitors-a-month-by-using-one-simple-formula/)
   30. [My Favorite Tested SlideShare Marketing Strategies](http://blog.usefedora.com/post/119153236763/my-favorite-tested-slideshare-marketing-strategies)
   31. [Sales Function in a Startup](http://tenmillionrupees.blogspot.in/2014/04/sales-function-in-startup.html?m=1)
+  32. [How I launched the #1 most upvoted product of all time on Product Hunt](https://medium.com/@bramk/how-i-launched-the-2-most-upvoted-product-of-all-time-on-product-hunt-f3772fb20ad8)
 
 ## MVP GUIDE
   - [15 ways to test your minimum viable product](http://thenextweb.com/dd/2014/11/12/15-ways-test-minimum-viable-product)
