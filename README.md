@@ -48,4 +48,5 @@ Curated list about GH topics
   1. [Highbrow](http://gohighbrow.com)
 
 
-
+## Blogs 
+  1. [Startup Marketing and Sales](http://www.rocketwatcher.com)
