@@ -39,6 +39,7 @@ Curated list about GH topics
   31. [Sales Function in a Startup](http://tenmillionrupees.blogspot.in/2014/04/sales-function-in-startup.html?m=1)
   32. [How I launched the #1 most upvoted product of all time on Product Hunt](https://medium.com/@bramk/how-i-launched-the-2-most-upvoted-product-of-all-time-on-product-hunt-f3772fb20ad8)
   33. [The 5 Steps From Startup to Unicorn](http://www.entrepreneur.com/article/246637)
+  34. [70 Awesome Tools for Growth Hacking and Bootstrapping your Startup](http://blog.up.co/2015/04/08/tools-growthhacking-bootstrapping-your-startup/)
 
 ## MVP GUIDE
   - [15 ways to test your minimum viable product](http://thenextweb.com/dd/2014/11/12/15-ways-test-minimum-viable-product)
