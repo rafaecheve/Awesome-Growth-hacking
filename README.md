@@ -4,6 +4,7 @@ Curated list about GH topics
 
 ## Sites
   - [growthhackers](https://growthhackers.com)
+  - [BulkPublish](https://www.bulkpublish.com) - Social media scheduling and publishing for 11 platforms. Free tier, REST API, Python & Node.js SDKs, and MCP server.
 
 ## Resources
   1. [THE ULTIMATE GROWTH HACKING SOURCEBOOK](http://tigertiger.co/blog/ultimate-growth-hacking-sourcebook/)
