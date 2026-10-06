@@ -43,6 +43,8 @@ Curated list about GH topics
   35. [The Complete Guide to Product Qualified Leads](https://get.hull.io/complete-guide-pqls/chapter1/)
   36. [Finding Sales Triggers - How DigitalOcean closes more enterprise deals with automated sales triggers](https://clearbit.com/books/data-driven-sales/sales-triggers)
 
+  37. [Reach, views, likes and engagement-rate measurement — Slovenian guide](https://nakupsladilcev.si/guides/doseg-ogledi-vsecki-stopnja-vkljucenosti) — Definitions, clearly labelled denominator examples, matched-period comparisons and limits of attributing sales to counts.
+
 ## MVP GUIDE
   - [15 ways to test your minimum viable product](http://thenextweb.com/dd/2014/11/12/15-ways-test-minimum-viable-product)
 
